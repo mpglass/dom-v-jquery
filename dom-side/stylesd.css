@@ -7,3 +7,10 @@
 .paragraph {
     font-size: 50px;
 }
+#niceBtn {
+    margin: 2rem;
+}
+body {
+    margin-left: 2rem;
+    
+}
