@@ -5,6 +5,7 @@ body {
 .nice-div {
     margin: 2rem;
 }
+
 .square {
     margin: 2rem; 
     border: 3px solid black; 
@@ -14,4 +15,12 @@ body {
 
 .paragraph {
     font-size: 50px;
+}
+
+#nameBtn {
+    margin: 2rem;
+}
+
+#squadBtn {
+    margin: 1rem;
 }
